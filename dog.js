@@ -1,4 +1,4 @@
 function dog(){
 	
 }
-module.export= dog;
+module.exports= dog;
